@@ -14,7 +14,7 @@ Cross-Skilling Track - In Course Project
 
 Note that the Contacts app server must also be running to support the app's API calls.
 
-Check the server's [README File](../Server/README.md) for instructions.
+Check the server's [README File](https://github.com/hadirwahidd/FWD---Contacts-App/blob/master/Server/README.md) for instructions.
 
 ## License
 
